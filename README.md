@@ -1,2 +1,3 @@
-# Project-Euler
-Destined to contain every answer of the project euler.
+# Project Euler Solutions in Java
+
+This repository contains my Java solutions to [Project Euler](https://projecteuler.net/) problems.
