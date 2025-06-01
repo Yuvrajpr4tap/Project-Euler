@@ -1,4 +1,4 @@
-class LargestPalindromeProduct {
+class lpp {
     public static boolean isPalindrome(int number) {
         int original = number;
         int reversed = 0;
