@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class AmicableSum {
+class AmicableSum {
     public static void main(String[] args) {
         List<Integer> ami = new ArrayList<>();
         for (int i = 1; i <= 10000; i++) {
